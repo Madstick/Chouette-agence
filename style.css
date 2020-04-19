@@ -654,6 +654,23 @@ a {
     color: #575757!important;
 }
 
+.titre{
+    font-size: 22px;
+}
+
+.citation{
+    font-size: 20px;
+}
+
+.citation2{
+    font-size: 14px;
+    margin-top: -12px;
+}
+
+.italic{
+    font-style: italic;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -664,16 +681,6 @@ a {
 
 .hero-bloc-text-sub {
     font-size: 36px;
-}
-
-.statement-bloc-text {
-    line-height: 26px;
-    font-style: italic;
-    font-size: 20px;
-    text-align: center;
-    font-weight: lighter;
-    max-width: 520px;
-    margin: auto auto auto auto;
 }
 
 p {
@@ -822,7 +829,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
