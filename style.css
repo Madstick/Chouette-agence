@@ -384,10 +384,12 @@ a,
 h1,
 h2,
 h3,
-p {
+p,
+#bloc-6 h1,
+#bloc-6 p {
     font-family: helvetica;
     font-weight: 400;
-    color: #575757 !important
+    color: #3E3E3E !important
 }
 
 .titre {
